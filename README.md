@@ -1,1 +1,1 @@
-# C++ class
+# C plus plus class
